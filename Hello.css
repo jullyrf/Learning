@@ -1,0 +1,112 @@
+body {
+    background-color: #F3EBF6;
+    font-family: 'Ubuntu', sans-serif;
+}
+.login_container{
+    background-color: #FFFFFF;
+    width: 700px;
+    height: 700px;
+    margin: 10em auto;
+}
+.sign_up_title{
+    padding-top: 40px;
+        color: #0c0c0cfd;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: bold;
+        font-size: 23px;
+}
+.username{
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    border-radius: 4px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.password{
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    border-radius: 4px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.signin{
+    outline: none;
+      
+      width: 60%;
+      color: white;
+      text-align: center;
+      margin-bottom: 27px;
+      border: 2px solid rgba(0, 0, 0, 0.02);;
+      border-radius: 4px;
+      box-sizing: border-box;
+      padding: 12px 20px;
+      font-family: inherit;
+      font-size: inherit;
+      font-weight: semibold;
+      margin-left: 58px;
+      line-height: inherit;
+      background-color: #008CBA;
+      cursor:pointer;
+
+}
+.signup{
+    outline: none;
+      
+      width: 60%;
+      color: white;
+      text-align: center;
+      margin-bottom: 27px;
+      border: 2px solid rgba(0, 0, 0, 0.02);;
+      border-radius: 4px;
+      padding: 12px 20px;
+      font-family: inherit;
+      font-size: inherit;
+      line-height: inherit;
+      margin-left: 58px;
+      background-color: #008CBA;
+      cursor: pointer;
+
+}
+.logout{
+    outline: none;
+      width: 60%;
+      text-align: center;
+      margin-bottom: 27px;
+      border: 2px solid rgba(0, 0, 0, 0.02);;
+      border-radius: 4px;
+      padding: 12px 20px;
+      font-family: inherit;
+      font-size: inherit;
+      line-height: inherit;
+      margin-left: 58px;
+      background-color: #e6eff1;
+      cursor: pointer;
+}
+
+
+  
+
